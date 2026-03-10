@@ -1,0 +1,5 @@
+C:\Users\peter\Desktop\Leerjaar 2 MBO\Java\winkel_project\src\winkel_project\Item.java
+C:\Users\peter\Desktop\Leerjaar 2 MBO\Java\winkel_project\src\winkel_project\MainApp.java
+C:\Users\peter\Desktop\Leerjaar 2 MBO\Java\winkel_project\src\winkel_project\ShoppingCart.java
+C:\Users\peter\Desktop\Leerjaar 2 MBO\Java\winkel_project\src\winkel_project\Store.java
+C:\Users\peter\Desktop\Leerjaar 2 MBO\Java\winkel_project\src\winkel_project\StoreItem.java
